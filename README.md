@@ -1,5 +1,10 @@
 # Getting Started with Create React App
 
+I have added the following dependencies to this project:
+- tailwind
+- heroicons
+- axios
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
